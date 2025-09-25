@@ -2,7 +2,7 @@
 
 <a href="https://linkedin.com/in/vamsimyla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 `mylavamsikrishnasai@gmail.com`
-
+<img src="PASTE_YOUR_COPIED_IMAGE_URL_HERE" alt="Vamsi Myla" width="200" align="right">
 ---
 
 ### 👨‍💻 About Me
