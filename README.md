@@ -1,11 +1,10 @@
-<img src="https://github.com/VamsiMyla916/VamsiMyla916/blob/main/vamsimyla.jpg?raw=true" alt="Vamsi Myla" width="200" align="right">
-
 # Vamsi Krishna Sai Myla 👋
 
 <a href="https://linkedin.com/in/vamsimyla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 `mylavamsikrishnasai@gmail.com`
 
----
+--- 
+<img src="PASTE_YOUR_COPIED_IMAGE_URL_HERE" alt="Vamsi Myla" width="200" align="right">
 
 ### 👨‍💻 About Me
 
@@ -36,4 +35,4 @@ I am now focusing my passion and skills on the fields of **AI Engineering and Pr
 **Platforms & Tools:**
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+![JIRA](https://img.shields.io/badge/Jira-0052CC?style=for-for-the-badge&logo=Jira&logoColor=white)
