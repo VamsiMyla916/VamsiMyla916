@@ -1,4 +1,4 @@
-<img src="PASTE_YOUR_COPIED_IMAGE_URL_HERE" alt="Vamsi Myla" width="200" align="right">
+<img src="https://github.com/VamsiMyla916/VamsiMyla916/blob/main/vamsimyla.jpg?raw=true" alt="Vamsi Myla" width="200" align="right">
 
 # Vamsi Krishna Sai Myla 👋
 
