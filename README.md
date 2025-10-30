@@ -4,7 +4,7 @@
 `mylavamsikrishnasai@gmail.com`
 
 --- 
-<img src="(https://github.com/VamsiMyla916/VamsiMyla916/blob/main/vamsimyla.jpg?raw=true)" alt="Vamsi Myla" width="200" align="right">
+<img src="https://raw.githubusercontent.com/VamsiMyla916/VamsiMyla916/refs/heads/main/vamsimyla.jpg" alt="Vamsi Myla" width="200" align="right">
 
 ### 👨‍💻 About Me
 
