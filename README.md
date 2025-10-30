@@ -8,15 +8,15 @@
 
 ### 👨‍💻 About Me
 
-I am a Computer Science graduate student at Portland State University [cite: 8] [cite_start]with a strong foundation in predictive modeling, machine learning, and advanced analytics[cite: 3]. [cite_start]I build solutions using Python, SQL, and Scikit-learn to solve complex business problems[cite: 4].
+I am a Computer Science graduate student at Portland State University with a strong foundation in predictive modeling, machine learning, and advanced analytics. I build solutions using Python, SQL, and Scikit-learn to solve complex business problems.
 
-In my professional role, I **enhanced anomalous behavior detection by 30%** by designing and implementing a predictive modeling system[cite: 27].
+In my professional role, I **enhanced anomalous behavior detection by 30%** by designing and implementing a predictive modeling system.
 
 I am now focusing my passion and skills on the fields of **AI Engineering and Prompt Engineering**, with a deep interest in generative models and MLOps.
 
 - 🔭 I’m currently building end-to-end generative AI applications with Streamlit and FastAPI.
 - 🌱 Ask me about RAG pipelines, object detection, or building ML APIs.
-- [cite_start]⚡ Fun fact: I received the ELSA Award at PSU for mentoring international students[cite: 52, 53].
+- ⚡ Fun fact: I received the ELSA Award at PSU for mentoring international students.
 
 ---
 
