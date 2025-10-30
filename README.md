@@ -8,9 +8,9 @@
 
 ### 👨‍💻 About Me
 
-[cite_start]I am a Computer Science graduate student at Portland State University [cite: 8] [cite_start]with a strong foundation in predictive modeling, machine learning, and advanced analytics[cite: 3]. [cite_start]I build solutions using Python, SQL, and Scikit-learn to solve complex business problems[cite: 4].
+I am a Computer Science graduate student at Portland State University [cite: 8] [cite_start]with a strong foundation in predictive modeling, machine learning, and advanced analytics[cite: 3]. [cite_start]I build solutions using Python, SQL, and Scikit-learn to solve complex business problems[cite: 4].
 
-[cite_start]In my professional role, I **enhanced anomalous behavior detection by 30%** by designing and implementing a predictive modeling system[cite: 27].
+In my professional role, I **enhanced anomalous behavior detection by 30%** by designing and implementing a predictive modeling system[cite: 27].
 
 I am now focusing my passion and skills on the fields of **AI Engineering and Prompt Engineering**, with a deep interest in generative models and MLOps.
 
