@@ -21,16 +21,16 @@
         <img src="https://raw.githubusercontent.com/VamsiMyla916/VamsiMyla916/refs/heads/main/vamsimyla.jpg" width="200" alt="Vamsi Myla" style="border-radius: 10px;">
         <br/><br/>
         <h3>📫 Contact Info</h3>
-        <a href="mailto:ksladsjkbsd@gmail.com">
+        <a href="mailto:mylavamsikrishnasai@gmail.com">
           <img src="https://img.shields.io/badge/Gmail-ksladsjkbsd%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
         </a>
         <br/>
-        <a href="https://linkedin.com/in/vamsimyla">
+        <a href="https://www.linkedin.com/in/vamsimyla">
           <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
         </a>
         <br/>
         <a href="#">
-          <img src="https://img.shields.io/badge/Phone-38789465-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone">
+          <img src="https://img.shields.io/badge/Phone-5037916338-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone">
         </a>
       </div>
     </td>
