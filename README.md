@@ -22,7 +22,7 @@
         <br/><br/>
         <h3>📫 Contact Info</h3>
         <a href="mailto:mylavamsikrishnasai@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-ksladsjkbsd%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+          <img src="https://img.shields.io/badge/Gmail-mylavamsikrishnasai%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
         </a>
         <br/>
         <a href="https://www.linkedin.com/in/vamsimyla">
