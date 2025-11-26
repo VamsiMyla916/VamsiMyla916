@@ -1,22 +1,41 @@
 # Vamsi Krishna Sai Myla 👋
 
-<a href="https://linkedin.com/in/vamsimyla"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-`mylavamsikrishnasai@gmail.com`
-
---- 
-<img src="https://raw.githubusercontent.com/VamsiMyla916/VamsiMyla916/refs/heads/main/vamsimyla.jpg" alt="Vamsi Myla" width="200" align="right">
-
-### 👨‍💻 About Me
-
-I am a Computer Science graduate student at Portland State University with a strong foundation in predictive modeling, machine learning, and advanced analytics. I build solutions using Python, SQL, and Scikit-learn to solve complex business problems.
-
-In my professional role, I **enhanced anomalous behavior detection by 30%** by designing and implementing a predictive modeling system.
-
-I am now focusing my passion and skills on the fields of **AI Engineering and Prompt Engineering**, with a deep interest in generative models and MLOps.
-
-- 🔭 I’m currently building end-to-end generative AI applications with Streamlit and FastAPI.
-- 🌱 Ask me about RAG pipelines, object detection, or building ML APIs.
-- ⚡ Fun fact: I received the ELSA Award at PSU for mentoring international students.
+<table>
+  <tr>
+    <td valign="top" width="60%">
+      <h3>👨‍💻 About Me</h3>
+      I am a Computer Science graduate student at Portland State University with a strong foundation in predictive modeling, machine learning, and advanced analytics. I build solutions using Python, SQL, and Scikit-learn to solve complex business problems.
+      <br/><br/>
+      In my professional role, I <b>enhanced anomalous behavior detection by 30%</b> by designing and implementing a predictive modeling system.
+      <br/><br/>
+      I am now focusing my passion and skills on the fields of <b>AI Engineering and Prompt Engineering</b>, with a deep interest in generative models and MLOps.
+      <br/><br/>
+      <ul>
+        <li>🔭 I’m currently building end-to-end generative AI applications with Streamlit and FastAPI.</li>
+        <li>🌱 Ask me about RAG pipelines, object detection, or building ML APIs.</li>
+        <li>⚡ Fun fact: I received the ELSA Award at PSU for mentoring international students.</li>
+      </ul>
+    </td>
+    <td valign="top" width="40%">
+      <div align="center">
+        <img src="https://raw.githubusercontent.com/VamsiMyla916/VamsiMyla916/refs/heads/main/vamsimyla.jpg" width="200" alt="Vamsi Myla" style="border-radius: 10px;">
+        <br/><br/>
+        <h3>📫 Contact Info</h3>
+        <a href="mailto:ksladsjkbsd@gmail.com">
+          <img src="https://img.shields.io/badge/Gmail-ksladsjkbsd%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+        </a>
+        <br/>
+        <a href="https://linkedin.com/in/vamsimyla">
+          <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+        <br/>
+        <a href="#">
+          <img src="https://img.shields.io/badge/Phone-38789465-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="Phone">
+        </a>
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
