@@ -3,17 +3,17 @@
 <table>
   <tr>
     <td valign="top" width="60%">
-      <h3>👨‍💻 About Me</h3>
-      I am a Computer Science graduate student at Portland State University with a strong foundation in predictive modeling, machine learning, and advanced analytics. I build solutions using Python, SQL, and Scikit-learn to solve complex business problems.
+      <h3>👨‍💻 AI Solutions Engineer | Associate Solutions Architect</h3>
+      I am an <b>AI-Native Engineer</b> and <b>Rapid Prototyper</b> who bridges the gap between complex AI research and reliable production systems.
       <br/><br/>
-      In my professional role, I <b>enhanced anomalous behavior detection by 30%</b> by designing and implementing a predictive modeling system.
+      My core strength is <b>System Architecture</b>: I leverage LLMs and AI-assisted workflows to architect and deploy full-stack applications <b>3x faster</b> than traditional development cycles.
       <br/><br/>
-      I am now focusing my passion and skills on the fields of <b>AI Engineering and Prompt Engineering</b>, with a deep interest in generative models and MLOps.
+      I specialize in building end-to-end RAG pipelines, decoupled inference APIs, and Agentic workflows.
       <br/><br/>
       <ul>
-        <li>🔭 I’m currently building end-to-end generative AI applications with Streamlit and FastAPI.</li>
-        <li>🌱 Ask me about RAG pipelines, object detection, or building ML APIs.</li>
-        <li>⚡ Fun fact: I received the ELSA Award at PSU for mentoring international students.</li>
+        <li>🔭 <b>Currently Building:</b> Agentic workflows using Oumi and LangGraph.</li>
+        <li>🏗️ <b>Architecture Stack:</b> FastAPI (Backend), Docker (Containerization), Streamlit (UI), FAISS (Vector Store).</li>
+        <li>🌱 <b>Ask me about:</b> Optimizing RAG retrieval latency, local LLM inference, and rapid prototyping strategies.</li>
       </ul>
     </td>
     <td valign="top" width="40%">
@@ -39,35 +39,30 @@
 
 ---
 
-### 🚀 My Featured AI Projects
+### 🚀 Featured Architectures & Prototypes
 
-Here are my recent projects. All are live, interactive applications.
+I build **production-ready prototypes** that solve real business problems. Check out the live demos below.
 
-| Project | Live App Link | GitHub Repository |
+| System / Architecture | Live Demo | GitHub Repo |
 | :--- | :--- | :--- |
-| **RAG AI Chatbot** <br/> A "Chat with your Docs" app using Streamlit, LangChain, and OpenAI. | [**🚀 Try the App**](https://ragchatbotvm.streamlit.app/) | [**📄 View Code**](https://github.com/VamsiMyla916/RAG-chatbot-streamlit) |
-| **CSV Data Storyteller** <br/> An AI tool that generates a full data analysis report from any CSV file. | [**🚀 Try the App**](https://csv-data-story-teller-vm.streamlit.app/) | [**📄 View Code**](https://github.com/VamsiMyla916/csv-data-story-teller) |
-| **Real-Time Occupancy Counter** <br/> A decoupled FastAPI + YOLOv8 backend with a Streamlit client. | [**🚀 Try the App**](https://cv-api-vm.streamlit.app/) | [**📄 View Code**](https://github.com/VamsiMyla916/cv-api) |
+| **End-to-End RAG System** <br/> *Architecture:* PDF Ingestion &rarr; LangChain Chunking &rarr; FAISS Vector Store &rarr; Gemma (LLM). <br/> *Focus:* Data Privacy & Accurate Retrieval. | [**🚀 Live App**](https://ragchatbotvm.streamlit.app/) | [**📄 System Code**](https://github.com/VamsiMyla916/RAG-chatbot-streamlit) |
+| **Decoupled Computer Vision API** <br/> *Architecture:* YOLOv8 Inference Engine (FastAPI/Docker) &harr; Async Streamlit Client. <br/> *Focus:* Low-latency API design & Microservices pattern. | [**🚀 Live App**](https://cv-api-vm.streamlit.app/) | [**📄 System Code**](https://github.com/VamsiMyla916/cv-api) |
+| **AI Data Analyst Agent** <br/> *Architecture:* Dynamic Python Code Generation Agent for CSV Analytics. <br/> *Focus:* Automating Business Intelligence workflows. | [**🚀 Live App**](https://csv-data-story-teller-vm.streamlit.app/) | [**📄 System Code**](https://github.com/VamsiMyla916/csv-data-story-teller) |
 
 ---
 
-### 🛠️ My Technical Skills
+### 🛠️ Technical Stack
 
-**Languages:**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-
-**AI/ML Tools:**
+**Generative AI & Orchestration:**
 ![LangChain](https://img.shields.io/badge/LangChain-009688?style=for-the-badge&logo=langchain&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-**Platforms & Tools:**
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+**Backend & Infrastructure:**
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+**Core Languages:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
