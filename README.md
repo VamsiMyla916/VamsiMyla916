@@ -45,7 +45,7 @@ I build **production-ready prototypes** that solve real business problems. Check
 
 | System / Architecture | Live Demo | GitHub Repo |
 | :--- | :--- | :--- |
-| **End-to-End RAG System** <br/> *Architecture:* PDF Ingestion &rarr; LangChain Chunking &rarr; FAISS Vector Store &rarr; Gemma (LLM). <br/> *Focus:* Data Privacy & Accurate Retrieval. | [**🚀 Live App**](https://ragchatbotvm.streamlit.app/) | [**📄 System Code**](https://github.com/VamsiMyla916/RAG-chatbot-streamlit) |
+| **End-to-End RAG System** <br/> *Architecture:* PDF Ingestion &rarr; LangChain Chunking &rarr; FAISS Vector Store &rarr; Gemma (LLM). <br/> *Focus:* Data Privacy & Accurate Retrieval. | [**🚀 Live App**](https://huggingface.co/spaces/vamsimyla/ragchatbotvm) | [**📄 System Code**](https://github.com/VamsiMyla916/RAG-chatbot-streamlit) |
 | **Decoupled Computer Vision API** <br/> *Architecture:* YOLOv8 Inference Engine (FastAPI/Docker) &harr; Async Streamlit Client. <br/> *Focus:* Low-latency API design & Microservices pattern. | [**🚀 Live App**](https://cv-api-vm.streamlit.app/) | [**📄 System Code**](https://github.com/VamsiMyla916/cv-api) |
 | **AI Data Analyst Agent** <br/> *Architecture:* Dynamic Python Code Generation Agent for CSV Analytics. <br/> *Focus:* Automating Business Intelligence workflows. | [**🚀 Live App**](https://csv-data-story-teller-vm.streamlit.app/) | [**📄 System Code**](https://github.com/VamsiMyla916/csv-data-story-teller) |
 
